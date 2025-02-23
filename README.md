@@ -11,8 +11,7 @@
   - LinkedIn: [Sunidhi Mundra](https://www.linkedin.com/in/sunidhi-mundra-444998323)
     
 ## Fun Facts
-
-⚡ Fun facts:  
+ 
   - I could stare at the sky forever and never get bored. ☁️
 
 ## GitHub Stats
