@@ -7,7 +7,7 @@
 ## Contact Me
 
 📫 How to reach me:  
-  - Instagram: [sunidhi_.mundra]([https://www.instagram.com/sunidhi_.mundra](https://www.instagram.com/sunidhi_.mundra?igsh=MWpod2Rnc3I2bXlteg==))  
+  - Instagram: [sunidhi_.mundra](https://www.instagram.com/sunidhi_.mundra?igsh=MWpod2Rnc3I2bXlteg==)  
   - LinkedIn: [Sunidhi Mundra](https://www.linkedin.com/in/sunidhi-mundra-444998323)
     
 ## Fun Facts
