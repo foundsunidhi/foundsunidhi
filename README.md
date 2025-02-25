@@ -1,8 +1,6 @@
-# Welcome to My GitHub Profile!
+# 👋 Hello , I'm Sunidhi 
 
-👋 Hello Developers! I’m Sunidhi.
-
-👀 I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
+# 👀 I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
 
 ## Contact Me
 
