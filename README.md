@@ -1,6 +1,6 @@
 # 👋 Hello , I'm Sunidhi 
 
-# 👀 I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
+👀 I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
 
 ## Contact Me
 
