@@ -4,9 +4,9 @@
 
 ## Contact Me
 
-📫 How to reach me:  
-  - Instagram: [lost_sunidhi](https://www.instagram.com/lost_sunidhi?igsh=aW1pcDJoeHN5ZGow) 
-  - LinkedIn: [Sunidhi Mundra](https://www.linkedin.com/in/sunidhi-mundra-444998323)
+📫 How to reach me:
+  - [Instagram](https://www.instagram.com/lost_sunidhi?igsh=aW1pcDJoeHN5ZGow)
+  - [LinkedIn](www.linkedin.com/in/sunidhi-mundra)  
 
 ## GitHub Stats
 
