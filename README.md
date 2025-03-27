@@ -1,10 +1,8 @@
-# 👋 Hello , I'm Sunidhi 
+# Hello , I'm Sunidhi 
 
-👀 I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
+I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.
 
-## Contact Me
-
-📫 How to reach me:
+## Socials:
   - [Instagram](https://www.instagram.com/lost_sunidhi?igsh=aW1pcDJoeHN5ZGow)
   - [LinkedIn](www.linkedin.com/in/sunidhi-mundra)  
 
