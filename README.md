@@ -1,7 +1,5 @@
-# Hey there! I'm Sunidhi  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> # Hey! I'm Sunidhi  
 *I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.*  
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my corner on GitHub!
 
 ---
 
@@ -13,7 +11,6 @@
 
 ## 💻 My GitHub Playground  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foundsunidhi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10)</br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foundsunidhi&theme=tokyonight&hide_border=false&border_radius=10)</br>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foundsunidhi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10)</br> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foundsunidhi&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)
 
