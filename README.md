@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> # Hey! I'm Sunidhi  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+# Hey! I'm Sunidhi  
+--
+
 *I’m interested in designing creative projects, exploring tech trends, and constantly improving my skills.*  
 
 ---
