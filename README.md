@@ -1,10 +1,8 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80">
   Hey there, I'm Sunidhi!
 </h1>
 
-<p align="center">
-
-</p>
 
 
 <h2 align="center"> 
