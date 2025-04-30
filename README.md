@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80">
-  Hey there, I'm Sunidhi!
+  Hey there, I'm Sunidhi! 👋
 </h1>
 
 
 
 <h2 align="center"> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZkNThucGE3ODB4aGRhYXV4dmVucmZoYzU4c29sdmJrYzR4aTdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" width="30"> 
   Connect with me
 </h2>
 
@@ -24,7 +23,7 @@
 
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN4M3k0MXl0bjExcTAzNHNyeTJydmJwa3FzeW43cGwzeWYzb3R0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="40"> 
   GitHub Stats
 </h2>
 
