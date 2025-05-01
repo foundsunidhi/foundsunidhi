@@ -42,9 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foundsunidhi&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </p>
