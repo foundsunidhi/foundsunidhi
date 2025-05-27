@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20there,%20I'm%20Sunidhi!&animation=fadeIn&type=waving&color=gradient&height=120&section=header&fontSize=45"/>
 </p>
 
-<!-- Introduction -->
-<h3 align="center">🌼 When I’m taking it easy, I like to:</h3>
-<ul align="center">
-  <li>Taking long walks, pretending to have deep thoughts</li>
-  <li>Chilling with music that somehow fits every mood</li>
-</ul>
 
 <!-- Connect with Me -->
 <h2 align="center">
@@ -16,13 +10,13 @@
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sunidhi-mundra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto:sunidhi.m.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
   <a href="https://www.instagram.com/lost_sunidhi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="35"/>
   </a>
 </p>
 
