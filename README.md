@@ -5,7 +5,6 @@
 
 <!-- Connect with Me -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZkNThucGE3ODB4aGRhYXV4dmVucmZoYzU4c29sdmJrYzR4aTdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" width="30"> 
   Connect with me
 </h2>
 <p align="center">
@@ -21,8 +20,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN4M3k0MXl0bjExcTAzNHNyeTJydmJwa3FzeW43cGwzeWYzb3R0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="40"> 
+<h2 align="center"> 
   GitHub Stats
 </h2>
 <p align="center">
