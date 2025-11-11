@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FFF00&height=100&section=header&text=HEY%20THERE%20I'AM%20SUNIDHI%20MUNDRA&fontSize=30&fontColor=lll&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FFF00&height=100&section=header&text=HEY%20THERE%20I'AM%20SUNIDHI&fontSize=30&fontColor=lll&animation=fadeIn" />
 </p>
 
 <br/><br/>
