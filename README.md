@@ -50,7 +50,7 @@ Most of my time is spent working on personal projects, contributing to communiti
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foundsunidhi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readmestreakstats.herokuapp.com/user=foundsunidhi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
