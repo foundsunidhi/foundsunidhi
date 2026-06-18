@@ -4,7 +4,7 @@
 
 ### Building • Learning • Growing 
 
-*Turning curiosity into projects and projects into experience.*
+*Turning curiosity into projects and projects into experience*
 
 <br>
 
